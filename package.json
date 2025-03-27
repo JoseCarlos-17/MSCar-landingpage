@@ -1,0 +1,41 @@
+{
+  "name": "ms-car-diesel",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.18.1",
+    "gulp-cli": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-image": "^6.2.1",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-sass": "^4.1.0",
+    "ip": "^1.1.5",
+    "live-server": "^1.2.1",
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0"
+  },
+  "scripts": {
+    "start": "gulp executeAll",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseCarlos-13/MsCar.git"
+  },
+  "engines": {
+    "npm": "6.14.16",
+    "node": "12.22.12"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseCarlos-13/MsCar/issues"
+  },
+  "homepage": "https://github.com/JoseCarlos-13/MsCar#readme"
+}
